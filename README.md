@@ -1,7 +1,7 @@
-<!-- Profile README Model -->
+<!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Vitor Argeri</h1>
-<h3 align="center">A passionate Software Developer from Brazil </h3>
+<h3 align="center">Full-Stack Developer | Automation & AI Enthusiast | Brazil 🇧🇷</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VitorArgeri&label=Profile%20views&color=0e75b6&style=flat" alt="VitorArgeri" />
@@ -9,52 +9,67 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-- 🔭 I’m currently studying on SENAI VALINHOS**
-- 🌱 I’m currently learning **Python**
-- 💬 Ask me about **HTML, CSS, REACT, NEXT, SQL, JAVASCRIPT**
-- 📫 How to reach me **vitor.argeri@gmail.com**
+- 💻 Full-Stack Developer focused on building scalable and efficient systems  
+- 🤖 Automation specialist using **n8n**, APIs, and workflow orchestration  
+- 🧠 Enthusiast in **Artificial Intelligence** and smart integrations  
+- 🌎 Fluent in **English** and native **Portuguese**  
+- 🧑‍💻 Working at **IARE**  
+- 🌱 Currently improving skills in **Python, AI integrations & backend architecture**  
+- 💬 Ask me about **React, Next.js, Node.js, APIs, Automation, SQL, JavaScript**  
+- 📫 Contact: **vitor.argeri@gmail.com**
+
+---
+
+## 🧠 Core Skills
+
+✔️ Full-Stack Web Development  
+✔️ Workflow Automation (n8n, APIs, Webhooks)  
+✔️ AI Integrations (LLMs, automation pipelines, smart assistants)  
+✔️ RESTful API Design  
+✔️ Database Modeling & Optimization  
+✔️ System Integration  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
-
+### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frontend:**
-
+### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**Backend:**
-
+### 🔧 Backend
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-**Databases:**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄️ Databases
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Tools & Platforms:**
+### 🤖 Automation & AI
+![n8n](https://img.shields.io/badge/n8n-ef6c00?style=for-the-badge&logo=n8n&logoColor=white)
+![AI](https://img.shields.io/badge/AI-Intelligent%20Systems-blue?style=for-the-badge)
 
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VitorArgeri&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VitorArgeri&theme=radical&hide_border=false" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VitorArgeri&theme=radical" alt="streak stats" />
 </p>
 
 <p align="center">
@@ -63,26 +78,33 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VitorArgeri&theme=radical&no-frame=true&no-bg=true" alt="trophies">
-</p>
+- 🚀 Building automation pipelines that save time and reduce manual work  
+- 🤖 Exploring AI-powered workflows and smart assistants  
+- 🔗 Creating seamless integrations between systems and APIs  
+- 📈 Constantly improving performance, scalability, and UX  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vitor-de-almeida-argeri-aa9969260" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:vitor.argeri@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/vitor_argeri" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vitor-de-almeida-argeri-aa9969260" target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:vitor.argeri@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://instagram.com/vitor_argeri" target="blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-## ✍️ Quote of the Day
+## 💡 Quote
 
-> *"As long as you live, keep learning how to live."* — Sêneca
+> *"First, solve the problem. Then, write the code."* – John Johnson
 
 ---
