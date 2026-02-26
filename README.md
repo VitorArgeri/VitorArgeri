@@ -65,15 +65,20 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorArgeri&show_icons=true&theme=radical" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorArgeri&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=VitorArgeri&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=VitorArgeri&theme=radical" alt="streak stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArgeri&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
+---
+
+### 📈 Contribution Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArgeri&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorArgeri&theme=radical&hide_border=true&area=true" />
 </p>
 
 ---
