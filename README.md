@@ -62,23 +62,35 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Developer Insights
 
+### 🧭 Profile Summary
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=VitorArgeri&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=VitorArgeri&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorArgeri&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img src="https://komarev.com/ghpvc/?username=VitorArgeri&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/VitorArgeri?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/stars/VitorArgeri?label=Total%20Stars&style=flat&color=0e75b6" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### ⚡ Productivity & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VitorArgeri&theme=radical&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VitorArgeri&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=VitorArgeri&theme=radical&utcOffset=-3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=VitorArgeri&theme=radical" />
+</p>
+
+---
+
+### 🧠 Development Focus
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VitorArgeri&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VitorArgeri&theme=radical" />
 </p>
 
 ---
